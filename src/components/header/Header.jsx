@@ -7,7 +7,7 @@ const Header = () => {
       <header className="header">
         <nav className="nav container">
           <a href="index.html" className="nav__logo">
-            Jane
+            Jane is so...
           </a>
           <div className={toggleState ? "nav__menu show__menu" : "nav__menu"}>
             <ul className="nav__list grid">
