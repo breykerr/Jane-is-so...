@@ -148,19 +148,15 @@
   }
 }
 @media screen and (max-width: 376px) {
-  .home__content {
+  /* .home__content {
     padding: 0;
-  }
+  } */
   .home__subtitle::after {
     width: 105px;
     top: 0.8rem;
   }
 }
 @media screen and (max-width: 350px) {
-  /* .home__content {
-    padding: 0;
-  } */
-
   .home__subtitle::after {
     width: 25px;
     top: 0.8rem;
