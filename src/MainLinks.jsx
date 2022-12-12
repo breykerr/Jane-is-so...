@@ -1,8 +1,9 @@
+import { Route, Routes } from "react-router-dom";
 import React from "react";
 import Home from "./components/home/Home";
 import About from "./components/about/About";
 import Skills from "./components/skills/Skills";
-import { Route, Routes } from "react-router-dom";
+import Work from "./components/works/Work";
 const MainLinks = () => {
   const ROUTES = [
     {
@@ -19,6 +20,11 @@ const MainLinks = () => {
       link: "/skills",
       element: <Skills />,
       id: 3,
+    },
+    {
+      link: "/portfolio",
+      element: <Work />,
+      id: 4,
     },
   ];
   return (
