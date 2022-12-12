@@ -5,7 +5,7 @@ const Data = () => {
     <>
       <div className="home__data">
         <h1 className="home__title">
-          Baitanaeva Jarkyn
+          Nurbek k Jarkyn
           {/* <svg
             width="36"
             height="36"
