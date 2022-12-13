@@ -2,9 +2,12 @@ import React from "react";
 import "./About.css";
 import JaneAboutMe from "../../assets/img/Luffy icon.jpg";
 import Info from "./Info";
+import BackAnimate from "../home/BackAnimate";
+
 const About = () => {
   return (
     <>
+      <BackAnimate />
       <section className="about section" id="about">
         <h2 className="section__title">About me</h2>
         <span className="section__subtitle">my education</span>
