@@ -2,11 +2,27 @@ import React, { useEffect, useState } from "react";
 import { poemsData, poemsCat } from "./DataWorks";
 import WorkItems from "./WorkItems";
 import "./Works.css";
+import { Pagination } from "@mui/material";
+import { createTheme } from "@mui/material/styles";
 
 const Works = () => {
   const [item, setItem] = useState({ name: "all" });
   const [poems, setPoems] = useState([]);
   const [active, setActive] = useState(0);
+
+  const [page, setPage] = useState(1);
+  const poemsItem = 4;
+  const count = Math.ceil(poemsData.length / poemsItem);
+
+  const handlePage = (e, i) => {
+    setPage(i);
+  };
+
+  function currentData() {
+    const begin = (page - 1) * poemsItem;
+    const end = begin + poemsItem;
+    return poemsData.slice(begin, end);
+  }
 
   useEffect(() => {
     if (item.name === "all") {
@@ -43,9 +59,23 @@ const Works = () => {
       </div>
 
       <div className="work__container container grid">
-        {poems.map((item) => {
-          return <WorkItems item={item} key={item.id} />;
-        })}
+        {poems ? (
+          currentData().map((item) => {
+            return <WorkItems item={item} key={item.id} />;
+          })
+        ) : (
+          <h3>Loading...</h3>
+        )}
+      </div>
+      <div className="work__pagination-wrapper">
+        <Pagination
+          count={count}
+          page={page}
+          onChange={handlePage}
+          variant="outlined"
+          shape="rounded"
+          // disabled="false"
+        />
       </div>
     </div>
   );

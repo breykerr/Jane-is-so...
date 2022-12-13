@@ -29,9 +29,9 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav__item">
-                <Link to="/photovideo" className="nav__link active-link">
+                <Link to="/media" className="nav__link active-link">
                   <i className="uil uil-scenery nav__icon"></i>
-                  Photo/Video
+                  Gallery
                 </Link>
               </li>
               <li className="nav__item">

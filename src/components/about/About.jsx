@@ -13,7 +13,7 @@ const About = () => {
         <span className="section__subtitle">my education</span>
 
         <div className="about__container container grid">
-          <img src={JaneAboutMe} alt="photoJane" className="about__img"></img>
+          <img src={JaneAboutMe} alt="photoJane" id="about__img"></img>
           <div className="about__data">
             <Info />
             <p className="about__desc">

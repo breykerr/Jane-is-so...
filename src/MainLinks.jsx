@@ -4,6 +4,8 @@ import Home from "./components/home/Home";
 import About from "./components/about/About";
 import Skills from "./components/skills/Skills";
 import Work from "./components/works/Work";
+import Media from "./components/media/Media";
+
 const MainLinks = () => {
   const ROUTES = [
     {
@@ -25,6 +27,11 @@ const MainLinks = () => {
       link: "/portfolio",
       element: <Work />,
       id: 4,
+    },
+    {
+      link: "/media",
+      element: <Media />,
+      id: 5,
     },
   ];
   return (
