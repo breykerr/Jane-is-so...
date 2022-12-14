@@ -10,6 +10,17 @@ const Works = () => {
   const [poems, setPoems] = useState([]);
   const [active, setActive] = useState(0);
 
+  useEffect(() => {
+    if (item.name === "all") {
+      setPoems(poemsData);
+    } else {
+      const newPoems = poemsData.filter((poems) => {
+        return poems.category === item.name;
+      });
+      setPoems(newPoems);
+    }
+  }, [item]);
+
   const [page, setPage] = useState(1);
   const poemsItem = 4;
   const count = Math.ceil(poemsData.length / poemsItem);
@@ -24,17 +35,6 @@ const Works = () => {
     return poemsData.slice(begin, end);
   }
 
-  useEffect(() => {
-    if (item.name === "all") {
-      setPoems(poemsData);
-    } else {
-      const newPoems = poemsData.filter((poems) => {
-        return poems.category === item.name;
-      });
-      setPoems(newPoems);
-    }
-  }, [item]);
-
   const handleClick = (e, index) => {
     setItem({ name: e.target.textContent });
     setActive(index);
@@ -42,7 +42,7 @@ const Works = () => {
 
   return (
     <div>
-      <div className="work__filters">
+      {/* <div className="work__filters">
         {poemsCat.map((item, index) => {
           return (
             <span
@@ -56,7 +56,7 @@ const Works = () => {
             </span>
           );
         })}
-      </div>
+      </div> */}
 
       <div className="work__container container grid">
         {poems ? (
@@ -74,7 +74,6 @@ const Works = () => {
           onChange={handlePage}
           variant="outlined"
           shape="rounded"
-          // disabled="false"
         />
       </div>
     </div>

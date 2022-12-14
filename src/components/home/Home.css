@@ -13,16 +13,17 @@
 
 .home__social-icon {
   font-size: 1.25rem;
-  color: var(--title-color);
+  color: var(--container-color);
 }
 
 .home__social-icon:hover {
-  color: var(--title-color-dark);
+  color: var(--title-color);
 }
 
 .home__title {
   font-size: var(--h1-font-size);
   margin-bottom: var(--mb-0-25);
+  color: var(--container-color);
 }
 
 .home__hand {
@@ -37,6 +38,7 @@
   padding-left: 3.5rem;
   font-weight: var(--font-normal);
   margin-bottom: var(--mb-1);
+  color: var(--container-color);
 }
 
 .home__subtitle::before {
@@ -44,7 +46,7 @@
   position: absolute;
   width: 40px;
   height: 1px;
-  background-color: var(--text-color);
+  background-color: var(--container-color);
   left: 0;
   top: 1rem;
 }
@@ -54,7 +56,7 @@
   position: absolute;
   width: 160px;
   height: 1px;
-  background-color: var(--text-color);
+  background-color: var(--container-color);
   right: 0;
   top: 1rem;
 }
@@ -65,7 +67,7 @@
 }
 
 .home__img {
-  background: url(../../assets//img/gustavo.jpg); /*Свойство background-repeat устанавливает, как фоновые изображения будет повторяться. Они могут повторяться по горизонтальной и вертикальной оси или не повторяться вовсе.*/
+  background: url(../../assets/img/gustavo.jpg); /*Свойство background-repeat устанавливает, как фоновые изображения будет повторяться. Они могут повторяться по горизонтальной и вертикальной оси или не повторяться вовсе.*/
   background-repeat: no-repeat;
   background-position: center;
   /*Свойство background-position-x - это CSS - свойство, 

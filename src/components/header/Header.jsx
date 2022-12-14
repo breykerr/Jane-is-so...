@@ -14,35 +14,35 @@ const Header = () => {
           <div className={toggleState ? "nav__menu show__menu" : "nav__menu"}>
             <ul className="nav__list grid">
               <li className="nav__item">
-                <Link to="/" className="nav__link active-link">
+                <a href="#home" className="nav__link active-link">
                   <i className="uil uil-estate nav__icon"></i> Home
-                </Link>
+                </a>
               </li>
               <li className="nav__item">
-                <Link to="/about" className="nav__link active-link">
+                <a href="#about" className="nav__link active-link">
                   <i className="uil uil-user nav__icon"></i> About
-                </Link>
+                </a>
               </li>
               <li className="nav__item">
-                <Link to="/skills" className="nav__link active-link">
+                <a href="#skills" className="nav__link active-link">
                   <i className="uil uil-file-alt nav__icon"></i> Skills
-                </Link>
+                </a>
               </li>
               <li className="nav__item">
-                <Link to="/media" className="nav__link active-link">
+                <a href="#media" className="nav__link active-link">
                   <i className="uil uil-scenery nav__icon"></i>
                   Gallery
-                </Link>
+                </a>
               </li>
               <li className="nav__item">
-                <Link to="/portfolio" className="nav__link active-link">
+                <a href="#portfolio" className="nav__link active-link">
                   <i className="uil uil-scenery nav__icon"></i> Portfolio
-                </Link>
+                </a>
               </li>
               <li className="nav__item">
-                <Link to="/contact" className="nav__link active-link">
+                <a href="#contact" className="nav__link active-link">
                   <i className="uil uil-message nav__icon"></i> Contact
-                </Link>
+                </a>
               </li>
             </ul>
 

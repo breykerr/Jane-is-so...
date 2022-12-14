@@ -4,7 +4,7 @@ import { JaneMedia } from "./DataMedia";
 import { Pagination } from "@mui/material";
 const Medias = () => {
   const [page, setCountPage] = useState(1);
-  const janePhoto = 3;
+  const janePhoto = 4;
   const count = Math.ceil(JaneMedia.length / janePhoto);
 
   const handlePage = (e, i) => {
@@ -25,7 +25,9 @@ const Medias = () => {
             return <MediaItems item={item} key={item.id} />;
           })
         ) : (
-          <h3>Loading...wait please</h3>
+          <h3 style={{ color: "white", fontSize: "var(--h1-font-size)" }}>
+            Loading...wait please
+          </h3>
         )}
       </div>
       <div className="work__pagination-wrapper">

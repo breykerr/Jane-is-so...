@@ -76,10 +76,6 @@
   box-sizing: border-box;
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
 body,
 button,
 textarea,
@@ -120,9 +116,8 @@ img {
 }
 
 html {
-  height: 600%;
+  scroll-behavior: smooth;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
-  /* overflow: scroll; */
 }
 
 .section {
@@ -131,7 +126,7 @@ html {
 
 .section__title {
   font-size: var(--h1-font-size);
-  color: var(--title-color);
+  color: var(--container-color);
 }
 
 .section__subtitle {
@@ -166,7 +161,7 @@ html {
   font-weight: var(--font-medium);
 }
 .button:hover {
-  background-color: var(--title-color-dark);
+  background-color: var(--container-color);
   /* background-color: #111; ? здесь, я уже заеб.. */
 }
 
@@ -175,9 +170,16 @@ html {
 }
 
 .button__flex {
-  /* background-color: var(--title-color-dark); */
   display: inline-flex;
   align-items: center;
+}
+
+.button__icon:hover {
+  color: var(--title-color-dark);
+}
+
+.button__flex:hover {
+  color: var(--title-color-dark);
 }
 
 /* media questions */
