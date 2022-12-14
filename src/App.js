@@ -7,6 +7,9 @@ import Skills from "./components/skills/Skills";
 import About from "./components/about/About";
 import Gallery from "./components/media/Media";
 import Portfolio from "./components/works/Work";
+// import Sweet from "./components/sweet/Sweet";
+import { Route, Routes } from "react-router-dom";
+import Contact from "./components/contact/Contact";
 
 function App() {
   return (
@@ -17,8 +20,9 @@ function App() {
         <Home />
         <About />
         <Skills />
-        {/* <Gallery /> */}
+        <Gallery />
         <Portfolio />
+        <Contact />
       </main>
     </>
   );

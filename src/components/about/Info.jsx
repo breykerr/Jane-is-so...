@@ -9,10 +9,27 @@ const Info = () => {
           <h3 className="about__title">Experience</h3>
           <span className="about__subtitle">2 years of commercial work</span>
         </div>
-        <div className="about__box" style={{ cursor: "pointer" }}>
+
+        <div className="about__box">
           <i className="bx bx-briefcase-alt"></i>
           <h3 className="about__title">Published</h3>
           <span className="about__subtitle">15+ poems</span>
+        </div>
+
+        <div className="about__box">
+          <i className="bx bx-crown"></i>
+          <h3 className="about__title">President</h3>
+          <a
+            style={{
+              display: "inline",
+              borderBottom: "1.5px solid #1b2735",
+            }}
+            href="https://88.edubish.kg/o-nas/"
+            target="_blank"
+            className="about__subtitle"
+          >
+            School №88
+          </a>
         </div>
       </div>
     </>

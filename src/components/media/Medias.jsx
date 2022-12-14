@@ -1,11 +1,12 @@
 import React, { useState } from "react";
 import MediaItems from "./MediaItems";
-import { JaneMedia } from "./DataMedia";
+import { JanePhotos } from "./DataMedia";
 import { Pagination } from "@mui/material";
+
 const Medias = () => {
   const [page, setCountPage] = useState(1);
   const janePhoto = 4;
-  const count = Math.ceil(JaneMedia.length / janePhoto);
+  const count = Math.ceil(JanePhotos.length / janePhoto);
 
   const handlePage = (e, i) => {
     setCountPage(i);
@@ -14,13 +15,13 @@ const Medias = () => {
   function currentData() {
     const begin = (page - 1) * janePhoto;
     const end = begin + janePhoto;
-    return JaneMedia.slice(begin, end);
+    return JanePhotos.slice(begin, end);
   }
 
   return (
     <>
       <div className="media__container container grid">
-        {JaneMedia ? (
+        {JanePhotos ? (
           currentData().map((item) => {
             return <MediaItems item={item} key={item.id} />;
           })

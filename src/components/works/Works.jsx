@@ -3,23 +3,23 @@ import { poemsData, poemsCat } from "./DataWorks";
 import WorkItems from "./WorkItems";
 import "./Works.css";
 import { Pagination } from "@mui/material";
-import { createTheme } from "@mui/material/styles";
 
 const Works = () => {
-  const [item, setItem] = useState({ name: "all" });
+  const [type, setType] = useState({ name: "all" });
+
   const [poems, setPoems] = useState([]);
   const [active, setActive] = useState(0);
 
   useEffect(() => {
-    if (item.name === "all") {
+    if (type.name === "all") {
       setPoems(poemsData);
     } else {
       const newPoems = poemsData.filter((poems) => {
-        return poems.category === item.name;
+        return poems.category === type.name;
       });
       setPoems(newPoems);
     }
-  }, [item]);
+  }, [type]);
 
   const [page, setPage] = useState(1);
   const poemsItem = 4;
@@ -36,13 +36,13 @@ const Works = () => {
   }
 
   const handleClick = (e, index) => {
-    setItem({ name: e.target.textContent });
+    setType({ name: e.target.textContent });
     setActive(index);
   };
 
   return (
     <div>
-      {/* <div className="work__filters">
+      <div className="work__filters">
         {poemsCat.map((item, index) => {
           return (
             <span
@@ -56,7 +56,7 @@ const Works = () => {
             </span>
           );
         })}
-      </div> */}
+      </div>
 
       <div className="work__container container grid">
         {poems ? (
@@ -64,7 +64,7 @@ const Works = () => {
             return <WorkItems item={item} key={item.id} />;
           })
         ) : (
-          <h3>Loading...</h3>
+          <h1>Loading</h1>
         )}
       </div>
       <div className="work__pagination-wrapper">
