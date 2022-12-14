@@ -39,6 +39,11 @@
   border-radius: 1.25rem;
   margin-bottom: var(--mb-0-5);
 }
+.work__video {
+  height: 352px;
+  border-radius: 1.25rem;
+  margin-bottom: var(--mb-0-5);
+}
 
 /*useState active*/
 .active__work {

@@ -19,28 +19,28 @@ const Header = () => {
                 </Link>
               </li>
               <li className="nav__item">
-                <Link to="/about" className="nav__link">
+                <Link to="/about" className="nav__link active-link">
                   <i className="uil uil-user nav__icon"></i> About
                 </Link>
               </li>
               <li className="nav__item">
-                <Link to="/skills" className="nav__link">
+                <Link to="/skills" className="nav__link active-link">
                   <i className="uil uil-file-alt nav__icon"></i> Skills
                 </Link>
               </li>
               <li className="nav__item">
-                <Link to="/photovideo" className="nav__link">
+                <Link to="/photovideo" className="nav__link active-link">
                   <i className="uil uil-scenery nav__icon"></i>
                   Photo/Video
                 </Link>
               </li>
               <li className="nav__item">
-                <Link to="/portfolio" className="nav__link">
+                <Link to="/portfolio" className="nav__link active-link">
                   <i className="uil uil-scenery nav__icon"></i> Portfolio
                 </Link>
               </li>
               <li className="nav__item">
-                <Link to="/contact" className="nav__link">
+                <Link to="/contact" className="nav__link active-link">
                   <i className="uil uil-message nav__icon"></i> Contact
                 </Link>
               </li>
