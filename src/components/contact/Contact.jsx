@@ -1,6 +1,5 @@
 import React, { useRef } from "react";
 import emailjs from "@emailjs/browser";
-
 import "./Contact.css";
 const Contact = () => {
   const form = useRef();
@@ -31,7 +30,11 @@ const Contact = () => {
                 <i className="bx bxl-telegram contact__card-icon"></i>
                 <h3 className="contact__card-title">Telegram</h3>
                 <span className="contact__card-data">@zholdubaevva</span>
-                <a href="" className="contact__button">
+                <a
+                  href="https://t.me/zholdubaevva"
+                  target="_blank"
+                  className="contact__button"
+                >
                   Write me
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
@@ -40,7 +43,11 @@ const Contact = () => {
                 <i className="bx bxl-instagram contact__card-icon"></i>
                 <h3 className="contact__card-title">Instagram</h3>
                 <span className="contact__card-data">@zholdubaevva</span>
-                <a href="" className="contact__button">
+                <a
+                  href="https://www.instagram.com/zholdubaevva/"
+                  className="contact__button"
+                  target="_blank"
+                >
                   Write me
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
