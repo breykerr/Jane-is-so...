@@ -10,7 +10,11 @@ const Social = () => {
       >
         <i className="uil uil-instagram"></i>
       </a>
-      <a href="#" className="home__social-icon" target="_blank">
+      <a
+        href="https://t.me/zholdubaevva"
+        className="home__social-icon"
+        target="_blank"
+      >
         <i className="bx bxl-telegram"></i>
       </a>
       <a
