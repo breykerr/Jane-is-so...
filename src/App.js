@@ -7,10 +7,10 @@ import Skills from "./components/skills/Skills";
 import About from "./components/about/About";
 import Gallery from "./components/media/Media";
 import Portfolio from "./components/works/Work";
-// import Sweet from "./components/sweet/Sweet";
-import { Route, Routes } from "react-router-dom";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
+import { Route, Routes } from "react-router-dom";
+import Secret from "./components/secret/Secret";
 
 function App() {
   return (
@@ -24,8 +24,11 @@ function App() {
         <Gallery />
         <Portfolio />
         <Contact />
-        <Footer />
       </main>
+      {/* <Routes>
+        <Route path="/secret" element={<Secret />} />
+      </Routes> */}
+      <Footer />
     </>
   );
 }

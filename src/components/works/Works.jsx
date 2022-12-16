@@ -42,7 +42,7 @@ const Works = () => {
 
   return (
     <div>
-      <div className="work__filters">
+      {/* <div className="work__filters">
         {poemsCat.map((item, index) => {
           return (
             <span
@@ -56,7 +56,7 @@ const Works = () => {
             </span>
           );
         })}
-      </div>
+      </div> */}
 
       <div className="work__container container grid">
         {poems ? (

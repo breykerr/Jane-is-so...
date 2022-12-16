@@ -22,7 +22,7 @@ const Social = () => {
         className="home__social-icon"
         target="_blank"
       >
-        <i className="uil uil-github-alt"></i>
+        <i className="bx bxl-tiktok"></i>
       </a>
     </div>
   );
