@@ -17,11 +17,11 @@ const Footer = () => {
               Poems
             </a>
           </li>
-          <li>
-            <Link to="/secretPage" className="footer__link">
+          {/* <li>
+            <Link to="/secret" className="footer__link">
               Secret
             </Link>
-          </li>
+          </li> */}
         </ul>
 
         <div className="footer__social">
@@ -39,13 +39,13 @@ const Footer = () => {
           >
             <i className="bx bxl-telegram"></i>
           </a>
-          {/* <a
+          <a
             href="https://github.com/thaddeusss"
             className="footer__social-link"
             target="_blank"
           >
-            <i className="uil uil-github-alt"></i>
-          </a> */}
+            <i className="bx bxl-tiktok"></i>
+          </a>
         </div>
 
         <span className="footer__copy">&#169; Thaddeus</span>

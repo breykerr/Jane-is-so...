@@ -161,7 +161,8 @@ html {
   font-weight: var(--font-medium);
 }
 .button:hover {
-  background-color: var(--container-color);
+  background-color: #0f0b0b;
+  border: 0.5px solid rgba(255, 255, 255, 0.9);
   /* background-color: #111; ? здесь, я уже заеб.. */
 }
 
@@ -174,12 +175,22 @@ html {
   align-items: center;
 }
 
-.button__icon:hover {
-  color: var(--title-color-dark);
+.button__flex:hover {
+  color: var(--container-color);
 }
 
-.button__flex:hover {
-  color: var(--title-color-dark);
+/* scrollbar */
+::-webkit-scrollbar {
+  width: 18px;
+}
+::-webkit-scrollbar-track {
+  background: var(--container-color);
+  box-shadow: 0 0 2px rgba(0, 0, 0, 0.2) inset;
+}
+::-webkit-scrollbar-thumb {
+  background: #070f0f;
+  border-radius: 8px;
+  border: 3px solid var(--container-color);
 }
 
 /* media questions */

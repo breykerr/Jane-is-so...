@@ -1,10 +1,10 @@
 .footer {
-  background-color: var(--container-color);
+  background-color: #bfbfbf;
   border-top: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .footer__container {
-  padding: 1.5rem 0 3rem;
+  padding: 0.5rem 0 1rem;
 }
 .footer__title,
 .footer__link {
@@ -28,6 +28,9 @@
   justify-content: center;
   column-gap: 1.5rem;
 }
+.footer__social :hover {
+  color: var(--title-color-dark);
+}
 .footer__social-link {
   background-color: var(--title-color);
   color: var(--container-color);
@@ -37,7 +40,7 @@
   border-radius: 0.5rem;
 }
 .footer__social-link:hover {
-  background-color: var(--title-color-dark);
+  background-color: var(--container-color);
 }
 .footer__copy {
   display: block;
@@ -48,9 +51,9 @@
 }
 
 /* media questions */
-@media screen and (max-width: 992px) {
+/* @media screen and (max-width: 992px) {
   .footer__social-link {
     padding: 0.25rem;
     border-radius: 0.25rem;
   }
-}
+} */
