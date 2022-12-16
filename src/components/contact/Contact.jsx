@@ -59,7 +59,9 @@ const Contact = () => {
 
             <form ref={form} onSubmit={sendEmail} className="contact__form">
               <div className="contact__form-div ">
-                <label className="contact__from-tag">Name</label>
+                <label className="contact__from-tag">
+                  <i className="bx bx-user"></i>
+                </label>
                 <input
                   type="text"
                   name="name"
@@ -68,7 +70,9 @@ const Contact = () => {
                 />
               </div>
               <div className="contact__form-div">
-                <label className="contact__from-tag">Mail</label>
+                <label className="contact__from-tag">
+                  <i className="bx bx-envelope"></i>
+                </label>
                 <input
                   type="email"
                   name="email"

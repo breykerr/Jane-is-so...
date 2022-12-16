@@ -40,7 +40,7 @@ const Footer = () => {
             <i className="bx bxl-telegram"></i>
           </a>
           <a
-            href="https://github.com/thaddeusss"
+            href="https://www.tiktok.com/@zholdubaevva"
             className="footer__social-link"
             target="_blank"
           >

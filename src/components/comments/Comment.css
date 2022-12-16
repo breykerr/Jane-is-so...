@@ -1,0 +1,53 @@
+.comment__container {
+  width: 750px;
+}
+.comment__card {
+  background-color: var(--container-color);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 1.5rem 2rem;
+  border-radius: 1.5rem;
+  margin-bottom: var(--mb-3);
+}
+.comment__name {
+  display: flex;
+  align-items: center;
+  font-size: var(--normal-font-size);
+  font-weight: var(--font-medium);
+  margin-bottom: var(--mb-0-25);
+}
+.comment__desc {
+  font-size: var(--small-font-size);
+}
+
+.comment__form {
+  width: 360px;
+  margin: 0 auto;
+  margin-bottom: var(--mb-2);
+}
+
+/*swiper*/
+.swiper-pagination-bullet {
+  background-color: #ccc !important;
+}
+.swiper-pagination-bullet-active {
+  background-color: white !important;
+}
+
+/* media questions */
+@media screen and (max-width: 992px) {
+  .comment__container {
+    width: initial;
+  }
+  .comment__card {
+    padding: 1.25rem 1.5rem;
+  }
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 576px) {
+  .comment__form {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 350px) {
+}

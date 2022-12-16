@@ -9,26 +9,25 @@ import Gallery from "./components/media/Media";
 import Portfolio from "./components/works/Work";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
-import { Route, Routes } from "react-router-dom";
-import Secret from "./components/secret/Secret";
-
+import CommentContextProvider from "./components/context/CommentContextProvider";
+import CommentList from "./components/comments/CommentsList";
 function App() {
   return (
     <>
-      <Header />
-      <BackAnimate />
-      <main className="main__links">
-        <Home />
-        <About />
-        <Skills />
-        <Gallery />
-        <Portfolio />
-        <Contact />
-      </main>
-      {/* <Routes>
-        <Route path="/secret" element={<Secret />} />
-      </Routes> */}
-      <Footer />
+      <CommentContextProvider>
+        <Header />
+        <BackAnimate />
+        <main className="main__links">
+          <Home />
+          <About />
+          <Skills />
+          <Gallery />
+          <Portfolio />
+          <CommentList />
+          <Contact />
+          <Footer />
+        </main>
+      </CommentContextProvider>
     </>
   );
 }

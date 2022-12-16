@@ -38,7 +38,6 @@ const Medias = () => {
           onChange={handlePage}
           variant="outlined"
           shape="rounded"
-          // disabled="false"
         />
       </div>
     </>

@@ -162,8 +162,6 @@ html {
 }
 .button:hover {
   background-color: #0f0b0b;
-  border: 0.5px solid rgba(255, 255, 255, 0.9);
-  /* background-color: #111; ? здесь, я уже заеб.. */
 }
 
 .button__icon {
