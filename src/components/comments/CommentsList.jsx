@@ -41,7 +41,6 @@ const ContactList = () => {
           },
         }}
         modules={[Pagination]}
-        // className="mySwiper"
       >
         {reviews.map((item, index) => {
           return (

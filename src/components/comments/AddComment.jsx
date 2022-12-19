@@ -1,10 +1,8 @@
-import { Box, Button, TextField } from "@mui/material";
 import React, { useContext, useState } from "react";
 import { commentContext } from "../context/CommentContextProvider";
 
 const AddContact = () => {
   const { addComments } = useContext(commentContext);
-  //   console.log(addContact);
 
   const [review, setReview] = useState({
     name: "",

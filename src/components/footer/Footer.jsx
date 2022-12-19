@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import "./Footer.css";
 const Footer = () => {
   return (
@@ -17,11 +16,6 @@ const Footer = () => {
               Poems
             </a>
           </li>
-          {/* <li>
-            <Link to="/secret" className="footer__link">
-              Secret
-            </Link>
-          </li> */}
         </ul>
 
         <div className="footer__social">

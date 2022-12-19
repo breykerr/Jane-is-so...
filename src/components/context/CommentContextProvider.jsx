@@ -19,7 +19,6 @@ const reducer = (state = INIT_STATE, action) => {
 
 const ContactContextProvider = ({ children }) => {
   const [state, dispatch] = useReducer(reducer, INIT_STATE);
-  // console.log(state.contactToEdit);
 
   const addComments = async (newContact) => {
     await axios.post("http://localhost:8000/reviews", newContact);

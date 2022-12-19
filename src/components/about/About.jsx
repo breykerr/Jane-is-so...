@@ -18,7 +18,6 @@ const About = () => {
               (some text) pumpie umpy umpkin pumpie umpy umpkin pumpie umpy
               umpkin pumpie umpy pumpie umpy umpkin pumpie umpy umpkin pumpie
             </p>
-            {/* <a className="button button__flex">for fun</a> */}
           </div>
         </div>
       </section>
