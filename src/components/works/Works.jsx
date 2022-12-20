@@ -73,7 +73,9 @@ const Works = () => {
           page={page}
           onChange={handlePage}
           variant="outlined"
-          shape="rounded"
+          color="secondary"
+          // size="large"
+          // shape="rounded"
         />
       </div>
     </div>

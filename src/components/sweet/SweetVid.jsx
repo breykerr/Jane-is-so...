@@ -37,7 +37,7 @@ const SweetVid = () => {
           page={page}
           onChange={handlePage}
           variant="outlined"
-          shape="rounded"
+          color="secondary"
         />
       </div>
     </div>
