@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jane-is-so.../static/css/main.2f7a2c9a.css",
+    "main.css": "/Jane-is-so.../static/css/main.22e62776.css",
     "main.js": "/Jane-is-so.../static/js/main.3c9ae1d2.js",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
@@ -93,11 +93,11 @@
     "static/media/photo20.jpg": "/Jane-is-so.../static/media/photo20.6ac1f9cd16a8d2c170e0.jpg",
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
-    "main.2f7a2c9a.css.map": "/Jane-is-so.../static/css/main.2f7a2c9a.css.map",
+    "main.22e62776.css.map": "/Jane-is-so.../static/css/main.22e62776.css.map",
     "main.3c9ae1d2.js.map": "/Jane-is-so.../static/js/main.3c9ae1d2.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f7a2c9a.css",
+    "static/css/main.22e62776.css",
     "static/js/main.3c9ae1d2.js"
   ]
 }
