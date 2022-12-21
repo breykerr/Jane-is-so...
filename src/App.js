@@ -14,20 +14,20 @@ import CommentList from "./components/comments/CommentsList";
 function App() {
   return (
     <>
-      <CommentContextProvider>
-        <Header />
-        <BackAnimate />
-        <main className="main__links">
-          <Home />
-          <About />
-          <Skills />
-          <Gallery />
-          <Portfolio />
-          <CommentList />
-          <Contact />
-          <Footer />
-        </main>
-      </CommentContextProvider>
+      {/* <CommentContextProvider> */}
+      <Header />
+      <BackAnimate />
+      <main className="main__links">
+        <Home />
+        <About />
+        <Skills />
+        <Gallery />
+        <Portfolio />
+        {/* <CommentList /> */}
+        <Contact />
+        <Footer />
+      </main>
+      {/* </CommentContextProvider> */}
     </>
   );
 }

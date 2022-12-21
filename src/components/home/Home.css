@@ -149,6 +149,13 @@
     top: 0.8rem;
   }
 }
+@media screen and (max-width: 415px) {
+  .home__subtitle::after {
+    width: 45px;
+    right: 0;
+    top: 0.8rem;
+  }
+}
 @media screen and (max-width: 376px) {
   /* .home__content {
     padding: 0;
