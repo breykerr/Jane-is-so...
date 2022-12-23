@@ -1,7 +1,12 @@
 import React from "react";
-import Sweet from "../sweet/Sweet";
 import "./Media.css";
-import Medias from "./Medias";
+import { useRef, useState } from "react";
+import { Swiper, SwiperSlide } from "swiper/react";
+import "swiper/css";
+import "swiper/css/pagination";
+import { Pagination } from "swiper";
+import { JanePhotos } from "./DataMedia";
+import "../comments/Comment.css";
 const Media = () => {
   return (
     <>
@@ -9,8 +14,38 @@ const Media = () => {
         <h2 className="section__title">Gallery</h2>
         <span className="section__subtitle">Мy memories</span>
 
-        <Medias />
-        <Sweet />
+        <Swiper
+          className="comment__container"
+          loop={true}
+          grabCursor={true}
+          spaceBetween={34}
+          pagination={{
+            clickable: true,
+          }}
+          breakpoints={{
+            576: {
+              slidesPerView: 2,
+            },
+            768: {
+              slidesPerView: 2,
+              spaceBetween: 48,
+            },
+          }}
+          modules={[Pagination]}
+        >
+          {JanePhotos.map((item, index) => {
+            return (
+              <SwiperSlide className="comment__card" key={index}>
+                <img
+                  title="cutee"
+                  src={item.images}
+                  alt="Jane photo"
+                  className="media__img"
+                />
+              </SwiperSlide>
+            );
+          })}
+        </Swiper>
       </section>
     </>
   );

@@ -6,6 +6,7 @@ import Home from "./components/home/Home";
 import Skills from "./components/skills/Skills";
 import About from "./components/about/About";
 import Gallery from "./components/media/Media";
+import Sweet from "./components/sweet/Sweet";
 import Portfolio from "./components/works/Work";
 import Contact from "./components/contact/Contact";
 import Footer from "./components/footer/Footer";
@@ -22,6 +23,7 @@ function App() {
         <About />
         <Skills />
         <Gallery />
+        <Sweet />
         <Portfolio />
         {/* <CommentList /> */}
         <Contact />
