@@ -22,8 +22,8 @@ import photo22 from "../../assets/img/photo20.jpg";
 import photo21 from "../../assets/img/photo21.jpg";
 import photo1 from "../../assets/img/photo22.jpg";
 //! import video
-import video1 from "../../assets/video/video1.mp4";
-import video2 from "../../assets/video/video2.mp4";
+import video52 from "../../assets/video/video1.mp4";
+import video51 from "../../assets/video/video2.mp4";
 import video3 from "../../assets/video/video3.mp4";
 import video4 from "../../assets/video/video4.mp4";
 import video5 from "../../assets/video/video5.mp4";
@@ -72,7 +72,8 @@ import video47 from "../../assets/video/video47.mp4";
 import video48 from "../../assets/video/video48.mp4";
 import video49 from "../../assets/video/video49.mp4";
 import video50 from "../../assets/video/video50.mp4";
-
+import video2 from "../../assets/video/zholdubaevva_1672144166542.mp4";
+import video1 from "../../assets/video/zholdubaevva_1672144167999.mp4";
 export const JanePhotos = [
   {
     id: 1,
@@ -369,9 +370,16 @@ export const JaneVideo = [
     id: 71,
     videos: video49,
   },
-
-  // {
-  //   id: 72,
-  //   videos: video50,
-  // },
+  {
+    id: 72,
+    videos: video50,
+  },
+  {
+    id: 73,
+    videos: video51,
+  },
+  {
+    id: 74,
+    videos: video52,
+  },
 ];
