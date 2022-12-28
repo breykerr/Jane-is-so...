@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jane-is-so.../static/css/main.f489c285.css",
-    "main.js": "/Jane-is-so.../static/js/main.6d577e00.js",
+    "main.js": "/Jane-is-so.../static/js/main.c04e36d7.js",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
     "static/media/video30.mp4": "/Jane-is-so.../static/media/video30.08233754cb60b1445327.mp4",
@@ -14,6 +14,7 @@
     "static/media/video25.mp4": "/Jane-is-so.../static/media/video25.af7b683414ec445d3ebb.mp4",
     "static/media/zholdubaevva_1672144167999.mp4": "/Jane-is-so.../static/media/zholdubaevva_1672144167999.6f0ef9c4c19eec34c0ed.mp4",
     "static/media/video35.mp4": "/Jane-is-so.../static/media/video35.5caec383d334cf9b73dd.mp4",
+    "static/media/video51.mp4": "/Jane-is-so.../static/media/video51.f3cc548e7f297c7a6ee7.mp4",
     "static/media/video31.mp4": "/Jane-is-so.../static/media/video31.d314f14c09d2c13d87e8.mp4",
     "static/media/video39.mp4": "/Jane-is-so.../static/media/video39.c1ef6a6133334742ed7a.mp4",
     "static/media/video44.mp4": "/Jane-is-so.../static/media/video44.d7b6668c1d840f1cc908.mp4",
@@ -25,6 +26,7 @@
     "static/media/video37.mp4": "/Jane-is-so.../static/media/video37.72cbe33cd1bd9a363222.mp4",
     "static/media/video50.mp4": "/Jane-is-so.../static/media/video50.529afa94e93f607b38de.mp4",
     "static/media/video32.mp4": "/Jane-is-so.../static/media/video32.7c405bf79f409de906d6.mp4",
+    "static/media/video52.mp4": "/Jane-is-so.../static/media/video52.0d09f62a1e2add67ef20.mp4",
     "static/media/poem9.mp4": "/Jane-is-so.../static/media/poem9.bc27797ff4808c66064f.mp4",
     "static/media/video46.mp4": "/Jane-is-so.../static/media/video46.9cac45eca0b72b23933b.mp4",
     "static/media/poem13.mp4": "/Jane-is-so.../static/media/poem13.acce418ff9d933b5eb9d.mp4",
@@ -96,10 +98,10 @@
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
     "main.f489c285.css.map": "/Jane-is-so.../static/css/main.f489c285.css.map",
-    "main.6d577e00.js.map": "/Jane-is-so.../static/js/main.6d577e00.js.map"
+    "main.c04e36d7.js.map": "/Jane-is-so.../static/js/main.c04e36d7.js.map"
   },
   "entrypoints": [
     "static/css/main.f489c285.css",
-    "static/js/main.6d577e00.js"
+    "static/js/main.c04e36d7.js"
   ]
 }
