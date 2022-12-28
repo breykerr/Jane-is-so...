@@ -5,10 +5,12 @@ const Data = () => {
     <>
       <div className="home__data">
         <h1 className="home__title">Nurbek k Jarkyn</h1>
-        <h3 className="home__subtitle">Poet (⁠灬⁠º⁠‿⁠º⁠灬⁠)⁠♡</h3>
+        <h3 className="home__subtitle">Poet (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</h3>
         <p className="home__desc">
-          (some text) pumpie umpy umpkin pumpie umpy umpkin pumpie umpy umpkin
-          pumpie umpy
+          (some text) Не переставай улыбаться, твоя улюбка обваражительна!
+          Чрезмерно авантажна.
+          {/* pumpie umpy umpkin pumpie umpy umpkin pumpie umpy umpkin
+          pumpie umpy */}
         </p>
         <a href="#contact" className="button button__flex">
           Say Hi

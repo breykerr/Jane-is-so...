@@ -32,19 +32,19 @@ const Left = () => {
             <div className="skills__data">
               <i className="bx bx-badge-check"></i>
               <div>
-                <h3 className="skills__name">someSkill</h3>
+                <h3 className="skills__name">Attractiveness))</h3>
               </div>
             </div>
             <div className="skills__data">
               <i className="bx bx-badge-check"></i>
               <div>
-                <h3 className="skills__name">someSkill</h3>
+                <h3 className="skills__name">Elegance</h3>
               </div>
             </div>
             <div className="skills__data">
               <i className="bx bx-badge-check"></i>
               <div>
-                <h3 className="skills__name">someSkill</h3>
+                <h3 className="skills__name">English</h3>
               </div>
             </div>
           </div>
