@@ -33,6 +33,7 @@ const Contact = () => {
                 <a
                   href="https://t.me/zholdubaevva"
                   target="_blank"
+                  rel="noopener noreferrer"
                   className="contact__button"
                 >
                   Write me
@@ -47,6 +48,7 @@ const Contact = () => {
                   href="https://www.instagram.com/zholdubaevva/"
                   className="contact__button"
                   target="_blank"
+                  rel="noopener noreferrer"
                 >
                   Write me
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>

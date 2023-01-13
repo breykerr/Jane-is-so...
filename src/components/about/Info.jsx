@@ -26,6 +26,7 @@ const Info = () => {
             }}
             href="https://88.edubish.kg/o-nas/"
             target="_blank"
+            rel="noopener noreferrer"
             className="about__subtitle"
           >
             School №88
