@@ -10,7 +10,7 @@ import { JaneVideo } from "../media/DataMedia";
 const Sweet = () => {
   return (
     <>
-      <BackAnimate />
+      {/* <BackAnimate /> */}
       <section
         className="sweet section"
         // style={{ padding: "2rem 0 1rem" }}

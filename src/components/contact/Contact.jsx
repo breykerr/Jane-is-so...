@@ -20,7 +20,7 @@ const Contact = () => {
     <>
       <section className="contact section" id="contact">
         <h2 className="section__title">Contact</h2>
-        <span className="section__subtitle">Contact me</span>
+        {/* <span className="section__subtitle">Contact me</span> */}
 
         <div className="contact__container container grid">
           <div className="contact__content">
@@ -56,7 +56,7 @@ const Contact = () => {
               </div>
             </div>
           </div>
-          <div className="contact__content" style={{ order: "-1" }}>
+          {/* <div className="contact__content" style={{ order: "-1" }}>
             <h3 className="contact__title">Email me</h3>
 
             <form ref={form} onSubmit={sendEmail} className="contact__form">
@@ -113,7 +113,7 @@ const Contact = () => {
                 </svg>
               </button>
             </form>
-          </div>
+          </div> */}
         </div>
       </section>
     </>

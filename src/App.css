@@ -195,7 +195,7 @@ html {
   box-shadow: 0 0 2px rgba(0, 0, 0, 0.2) inset;
 }
 ::-webkit-scrollbar-thumb {
-  background: #070f0f;
+  background: #090a0f;
   border-radius: 8px;
   border: 3px solid var(--container-color);
 }
