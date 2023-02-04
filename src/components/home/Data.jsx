@@ -4,11 +4,11 @@ const Data = () => {
   return (
     <>
       <div className="home__data">
-        <h1 className="home__title">Nurbek k Jarkyn</h1>
+        <h1 className="home__title">Jarkyn ❤</h1>
         <h3 className="home__subtitle">Poet (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</h3>
         <p className="home__desc">
           (some text) Не переставай улыбаться, твоя улюбка обваражительна!
-          Чрезмерно авантажна.
+          Чрезмерно авантажна ❤
           {/* pumpie umpy umpkin pumpie umpy umpkin pumpie umpy umpkin
           pumpie umpy */}
         </p>
