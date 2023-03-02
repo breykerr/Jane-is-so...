@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Jane-is-so.../static/css/main.6e226f59.css",
-    "main.js": "/Jane-is-so.../static/js/main.2c472354.js",
+    "main.css": "/Jane-is-so.../static/css/main.ee41c33b.css",
+    "main.js": "/Jane-is-so.../static/js/main.bfc1b048.js",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
     "static/media/video30.mp4": "/Jane-is-so.../static/media/video30.08233754cb60b1445327.mp4",
@@ -87,6 +87,7 @@
     "static/media/photo11.jpg": "/Jane-is-so.../static/media/photo11.728f11f384db9a20a948.jpg",
     "static/media/photo12.jpg": "/Jane-is-so.../static/media/photo12.8fbe5cc3be1fa75d2d28.jpg",
     "static/media/photo10.jpg": "/Jane-is-so.../static/media/photo10.dc32d02fec300a3c3499.jpg",
+    "static/media/photo28.jpg": "/Jane-is-so.../static/media/photo28.7a6500ac666d7e2a0195.jpg",
     "static/media/photo2.jpg": "/Jane-is-so.../static/media/photo2.4477f2e477e05828cac6.jpg",
     "static/media/photo5.jpg": "/Jane-is-so.../static/media/photo5.a2725043d8a722ba9a4d.jpg",
     "static/media/poem1.jpg": "/Jane-is-so.../static/media/poem1.904596c4970e2178e689.jpg",
@@ -101,11 +102,11 @@
     "static/media/photo20.jpg": "/Jane-is-so.../static/media/photo20.6ac1f9cd16a8d2c170e0.jpg",
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
-    "main.6e226f59.css.map": "/Jane-is-so.../static/css/main.6e226f59.css.map",
-    "main.2c472354.js.map": "/Jane-is-so.../static/js/main.2c472354.js.map"
+    "main.ee41c33b.css.map": "/Jane-is-so.../static/css/main.ee41c33b.css.map",
+    "main.bfc1b048.js.map": "/Jane-is-so.../static/js/main.bfc1b048.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e226f59.css",
-    "static/js/main.2c472354.js"
+    "static/css/main.ee41c33b.css",
+    "static/js/main.bfc1b048.js"
   ]
 }
