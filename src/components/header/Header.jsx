@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import "./header.css";
-
 const Header = () => {
   const [toggleState, showMenuSetState] = useState(false);
   return (
@@ -8,18 +7,18 @@ const Header = () => {
       <header className="header">
         <nav className="nav container">
           <a href="index.html" className="nav__logo">
-            Jane is so...
+            Jane
           </a>
           <div className={toggleState ? "nav__menu show__menu" : "nav__menu"}>
             <ul className="nav__list grid">
               <li className="nav__item">
                 <a href="#home" className="nav__link active-link">
-                  <i className="uil uil-estate nav__icon"></i> Home
+                  <i className="uil uil-estate nav__icon"></i> H
                 </a>
               </li>
               <li className="nav__item">
                 <a href="#about" className="nav__link active-link">
-                  <i className="uil uil-user nav__icon"></i> About
+                  <i className="uil uil-user nav__icon"></i> Abt
                 </a>
               </li>
               {/* <li className="nav__item">
@@ -29,8 +28,7 @@ const Header = () => {
               </li> */}
               <li className="nav__item">
                 <a href="#media" className="nav__link active-link">
-                  <i className="uil uil-scenery nav__icon"></i>
-                  Gallery
+                  <i className="uil uil-scenery nav__icon"></i>G
                 </a>
               </li>
               {/* <li className="nav__item">
@@ -40,7 +38,7 @@ const Header = () => {
               </li> */}
               <li className="nav__item">
                 <a href="#contact" className="nav__link active-link">
-                  <i className="uil uil-message nav__icon"></i> Contact
+                  <i className="uil uil-message nav__icon"></i> C
                 </a>
               </li>
             </ul>
