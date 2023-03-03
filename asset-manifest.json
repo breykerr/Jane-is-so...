@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jane-is-so.../static/css/main.ee41c33b.css",
+    "main.css": "/Jane-is-so.../static/css/main.6e226f59.css",
     "main.js": "/Jane-is-so.../static/js/main.bfc1b048.js",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
@@ -102,11 +102,11 @@
     "static/media/photo20.jpg": "/Jane-is-so.../static/media/photo20.6ac1f9cd16a8d2c170e0.jpg",
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
-    "main.ee41c33b.css.map": "/Jane-is-so.../static/css/main.ee41c33b.css.map",
+    "main.6e226f59.css.map": "/Jane-is-so.../static/css/main.6e226f59.css.map",
     "main.bfc1b048.js.map": "/Jane-is-so.../static/js/main.bfc1b048.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee41c33b.css",
+    "static/css/main.6e226f59.css",
     "static/js/main.bfc1b048.js"
   ]
 }
