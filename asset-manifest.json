@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Jane-is-so.../static/css/main.6e226f59.css",
-    "main.js": "/Jane-is-so.../static/js/main.bfc1b048.js",
+    "main.css": "/Jane-is-so.../static/css/main.e91ede73.css",
+    "main.js": "/Jane-is-so.../static/js/main.b8d7fe5f.js",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
     "static/media/video30.mp4": "/Jane-is-so.../static/media/video30.08233754cb60b1445327.mp4",
@@ -71,9 +71,11 @@
     "static/media/video28.mp4": "/Jane-is-so.../static/media/video28.3a49ed64931d1e93f89e.mp4",
     "static/media/video43.mp4": "/Jane-is-so.../static/media/video43.53d5ab8d0a8690f5c390.mp4",
     "static/media/video10.mp4": "/Jane-is-so.../static/media/video10.35a3835051fcf1ac348e.mp4",
+    "static/media/photo31.jpg": "/Jane-is-so.../static/media/photo31.20c2b36b1d8b7466d104.jpg",
     "static/media/photo23.jpg": "/Jane-is-so.../static/media/photo23.97d81dd974384bbebe96.jpg",
     "static/media/photo24.jpg": "/Jane-is-so.../static/media/photo24.49d48455505bff7d8cc1.jpg",
     "static/media/video19.mp4": "/Jane-is-so.../static/media/video19.1181af285359edab98d7.mp4",
+    "static/media/photo30.jpg": "/Jane-is-so.../static/media/photo30.b995de0fea3c068eea47.jpg",
     "static/media/photo21.jpg": "/Jane-is-so.../static/media/photo21.9dffe1bd8e1c1ec845f5.jpg",
     "static/media/photo25.jpg": "/Jane-is-so.../static/media/photo25.88493cc826b54d9624c0.jpg",
     "static/media/photo1.jpg": "/Jane-is-so.../static/media/photo1.7cb290c44751f28567a8.jpg",
@@ -102,11 +104,11 @@
     "static/media/photo20.jpg": "/Jane-is-so.../static/media/photo20.6ac1f9cd16a8d2c170e0.jpg",
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
-    "main.6e226f59.css.map": "/Jane-is-so.../static/css/main.6e226f59.css.map",
-    "main.bfc1b048.js.map": "/Jane-is-so.../static/js/main.bfc1b048.js.map"
+    "main.e91ede73.css.map": "/Jane-is-so.../static/css/main.e91ede73.css.map",
+    "main.b8d7fe5f.js.map": "/Jane-is-so.../static/js/main.b8d7fe5f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e226f59.css",
-    "static/js/main.bfc1b048.js"
+    "static/css/main.e91ede73.css",
+    "static/js/main.b8d7fe5f.js"
   ]
 }
