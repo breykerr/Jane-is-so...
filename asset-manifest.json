@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Jane-is-so.../static/css/main.9371ef8e.css",
-    "main.js": "/Jane-is-so.../static/js/main.cf8ff727.js",
+    "main.js": "/Jane-is-so.../static/js/main.350eb7bc.js",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
     "static/media/video30.mp4": "/Jane-is-so.../static/media/video30.08233754cb60b1445327.mp4",
@@ -106,10 +106,10 @@
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
     "main.9371ef8e.css.map": "/Jane-is-so.../static/css/main.9371ef8e.css.map",
-    "main.cf8ff727.js.map": "/Jane-is-so.../static/js/main.cf8ff727.js.map"
+    "main.350eb7bc.js.map": "/Jane-is-so.../static/js/main.350eb7bc.js.map"
   },
   "entrypoints": [
     "static/css/main.9371ef8e.css",
-    "static/js/main.cf8ff727.js"
+    "static/js/main.350eb7bc.js"
   ]
 }
