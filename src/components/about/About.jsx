@@ -16,7 +16,7 @@ const About = () => {
             <Info />
             <p className="about__desc">
               (some text) Не переставай улыбаться, твоя улюбка обваражительна!
-              Ты чрезмерно авантажна 🤍
+              Ты чрезмерно авантажна🤍
             </p>
             {/* <p className="about__desc">
               (some text) pumpie umpy umpkin pumpie umpy umpkin pumpie umpy

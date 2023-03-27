@@ -1,9 +1,12 @@
 import React from "react";
-
+import poeticrizz from "../../assets/poeticrizz.mp3";
 const Data = () => {
   return (
     <>
       <div className="home__data">
+        <audio className="autoAudio" controls autoPlay>
+          <source autoPlay src={poeticrizz} type="audio/mpeg" />
+        </audio>
         <h1 className="home__title">Jarkyn 🤍</h1>
         {/* <h3 className="home__subtitle">Poet (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</h3> */}
         <p className="home__desc">

@@ -5,6 +5,11 @@
   align-items: center;
 }
 
+/* Auto Audio */
+.autoAudio {
+  width: 180px;
+}
+
 .home__social {
   display: grid;
   grid-template-columns: max-content; /*Свойство background-position-x - это CSS - свойство, которое устанавливает начальную горизонтальную позицию для каждого фонового изображения. Эта позиция является относительной к позиции слоя, установленной с помощью свойства background-origin */
