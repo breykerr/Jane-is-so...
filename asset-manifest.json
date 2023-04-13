@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Jane-is-so.../static/css/main.4d6d4dd0.css",
-    "main.js": "/Jane-is-so.../static/js/main.585413d2.js",
-    "static/media/Arctic Monkeys - I Wanna Be Yours.mp3": "/Jane-is-so.../static/media/Arctic Monkeys - I Wanna Be Yours.527e196815abf149a4f3.mp3",
+    "main.js": "/Jane-is-so.../static/js/main.e7a2d99d.js",
+    "static/media/Beach House - Space Song.mp3": "/Jane-is-so.../static/media/Beach House - Space Song.45cb8026e4d43212f82a.mp3",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
     "static/media/video30.mp4": "/Jane-is-so.../static/media/video30.08233754cb60b1445327.mp4",
@@ -108,10 +108,10 @@
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
     "main.4d6d4dd0.css.map": "/Jane-is-so.../static/css/main.4d6d4dd0.css.map",
-    "main.585413d2.js.map": "/Jane-is-so.../static/js/main.585413d2.js.map"
+    "main.e7a2d99d.js.map": "/Jane-is-so.../static/js/main.e7a2d99d.js.map"
   },
   "entrypoints": [
     "static/css/main.4d6d4dd0.css",
-    "static/js/main.585413d2.js"
+    "static/js/main.e7a2d99d.js"
   ]
 }
