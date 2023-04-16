@@ -25,6 +25,8 @@ import photo25 from "../../assets/img/photo25.jpg";
 import photo24 from "../../assets/img/photo24.jpg";
 import photo27 from "../../assets/img/photo27.jpg";
 import photo28 from "../../assets/img/photo28.jpg";
+import photo32 from "../../assets/img/photo32.jpg";
+import photo33 from "../../assets/img/photo33.jpg";
 //! import video
 import video52 from "../../assets/video/video1.mp4";
 import video51 from "../../assets/video/video2.mp4";
@@ -189,6 +191,14 @@ export const JanePhotos = [
   {
     id: 24,
     images: photo27,
+  },
+  {
+    id: 25,
+    images: photo32,
+  },
+  {
+    id: 26,
+    images: photo33,
   },
   //!  VIDEOS
 ];

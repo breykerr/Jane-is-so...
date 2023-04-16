@@ -12,6 +12,11 @@ const Footer = () => {
             </a>
           </li>
           <li>
+            <a href="#about" className="footer__link">
+              About
+            </a>
+          </li>
+          <li>
             <a href="#media" className="footer__link">
               Gallery
             </a>
@@ -35,17 +40,25 @@ const Footer = () => {
           >
             <i className="bx bxl-telegram"></i>
           </a>
-          <a
+          {/* <a
             href="https://www.tiktok.com/@zholdubaevva"
             className="footer__social-link"
             target="_blank"
             rel="noopener noreferrer"
           >
             <i className="bx bxl-tiktok"></i>
+          </a> */}
+          <a
+            href="https://www.youtube.com/@zholdubaevva"
+            className="footer__social-link"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="bx bxl-youtube"></i>
           </a>
         </div>
 
-        <span className="footer__copy">&#169; Thaddeus</span>
+        <span className="footer__copy">&#169; lalala</span>
       </div>
     </footer>
   );

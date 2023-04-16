@@ -1,15 +1,16 @@
 import React from "react";
-import poeticrizz from "../../assets/poeticrizz.mp3";
+import poeticrizz from "../../assets/Chris Isaak - Wicked Game.mp3";
 const Data = () => {
   return (
     <>
       <div className="home__data">
-        <audio className="autoAudio" controls autoPlay>
+        <audio id="autoPlay" loop preload="auto" controls autoPlay>
           <source autoPlay src={poeticrizz} type="audio/mpeg" />
         </audio>
+
         <h1 className="home__title">Jarkyn 🤍</h1>
-        {/* <h3 className="home__subtitle">Poet (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</h3> */}
-        <p className="home__desc">
+        <h3 className="home__subtitle">Poet (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</h3>
+        {/* <p className="home__desc">
           Жаркын, о Жаркын,
           <br />
           Красота редкая и истинная, <br />
@@ -26,13 +27,14 @@ const Data = () => {
           дар, который дается отдельно. <br />
           <br />
           "Продолжай сиять ярче, чем когда-либо прежде".
-        </p>
-        {/* <p className="home__desc">
-          (some text) Не переставай улыбаться, твоя улюбка обваражительна!
-          Чрезмерно авантажна 🤍
         </p> */}
+        <p className="home__desc">
+          The world was on fire and no-one could save me but you, <br />
+          It's strange what desire will make foolish people do, <br />
+          I'd never dreamed that I'd meet somebody like you.
+        </p>
         <a href="#contact" className="button button__flex">
-          Say Hola
+          Say Hello
           <svg
             className="button__icon"
             xmlns="http://www.w3.org/2000/svg"
@@ -55,5 +57,4 @@ const Data = () => {
     </>
   );
 };
-
 export default Data;

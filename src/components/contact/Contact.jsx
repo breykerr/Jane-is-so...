@@ -56,7 +56,7 @@ const Contact = () => {
               </div>
             </div>
           </div>
-          {/* <div className="contact__content" style={{ order: "-1" }}>
+          {/* <div className="contact__content">
             <h3 className="contact__title">Email me</h3>
 
             <form ref={form} onSubmit={sendEmail} className="contact__form">

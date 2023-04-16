@@ -117,8 +117,8 @@ img {
 
 html {
   scroll-behavior: smooth;
-  /* background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%); */
-  background: radial-gradient(ellipse at bottom, #96208b 0%, #160433 100%);
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
+  /* background: radial-gradient(ellipse at bottom, #96208b 0%, #160433 100%); */
   /* background: radial-gradient(ellipse at bottom, #1b2735 0%, #090b19 10%); */
 }
 
@@ -189,7 +189,7 @@ html {
 }
 
 /* scrollbar */
-::-webkit-scrollbar {
+/* ::-webkit-scrollbar {
   width: 18px;
 }
 ::-webkit-scrollbar-track {
@@ -200,7 +200,7 @@ html {
   background: #090a0f;
   border-radius: 8px;
   border: 3px solid var(--container-color);
-}
+} */
 
 /* media questions */
 @media screen and (max-width: 992px) {

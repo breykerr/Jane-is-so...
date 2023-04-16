@@ -17,13 +17,13 @@ function App() {
     <>
       {/* <CommentContextProvider> */}
       <Header />
-      {/* <BackAnimate /> */}
+      <BackAnimate />
       <main className="main__links">
         <Home />
         <About />
         {/* <Skills /> */}
         <Gallery />
-        <Sweet />
+        {/* <Sweet /> */}
         {/* <Portfolio /> */}
         {/* <CommentList /> */}
         <Contact />
