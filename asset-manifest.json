@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jane-is-so.../static/css/main.899934cc.css",
+    "main.css": "/Jane-is-so.../static/css/main.6a38402c.css",
     "main.js": "/Jane-is-so.../static/js/main.f56827c4.js",
     "static/media/Chris Isaak - Wicked Game.mp3": "/Jane-is-so.../static/media/Chris Isaak - Wicked Game.1a9376860d044965fa47.mp3",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
@@ -107,11 +107,11 @@
     "static/media/photo20.jpg": "/Jane-is-so.../static/media/photo20.6ac1f9cd16a8d2c170e0.jpg",
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
-    "main.899934cc.css.map": "/Jane-is-so.../static/css/main.899934cc.css.map",
+    "main.6a38402c.css.map": "/Jane-is-so.../static/css/main.6a38402c.css.map",
     "main.f56827c4.js.map": "/Jane-is-so.../static/js/main.f56827c4.js.map"
   },
   "entrypoints": [
-    "static/css/main.899934cc.css",
+    "static/css/main.6a38402c.css",
     "static/js/main.f56827c4.js"
   ]
 }
