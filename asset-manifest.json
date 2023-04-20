@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Jane-is-so.../static/css/main.a1907112.css",
-    "main.js": "/Jane-is-so.../static/js/main.f56827c4.js",
-    "static/media/Chris Isaak - Wicked Game.mp3": "/Jane-is-so.../static/media/Chris Isaak - Wicked Game.1a9376860d044965fa47.mp3",
+    "main.js": "/Jane-is-so.../static/js/main.85e8336f.js",
+    "static/media/Kiss - I Was Made For Lovin You.mp3": "/Jane-is-so.../static/media/Kiss - I Was Made For Lovin You.b5af45575e72f9f063dc.mp3",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
     "static/media/video30.mp4": "/Jane-is-so.../static/media/video30.08233754cb60b1445327.mp4",
@@ -108,10 +108,10 @@
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
     "main.a1907112.css.map": "/Jane-is-so.../static/css/main.a1907112.css.map",
-    "main.f56827c4.js.map": "/Jane-is-so.../static/js/main.f56827c4.js.map"
+    "main.85e8336f.js.map": "/Jane-is-so.../static/js/main.85e8336f.js.map"
   },
   "entrypoints": [
     "static/css/main.a1907112.css",
-    "static/js/main.f56827c4.js"
+    "static/js/main.85e8336f.js"
   ]
 }
