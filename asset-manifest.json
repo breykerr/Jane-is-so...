@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/Jane-is-so.../static/css/main.4ee24d99.css",
-    "main.js": "/Jane-is-so.../static/js/main.41388296.js",
-    "static/media/Gym_Class_Heroes_-_Cupids_Chokehold__Breakfast_in_America.mp3": "/Jane-is-so.../static/media/Gym_Class_Heroes_-_Cupids_Chokehold__Breakfast_in_America.892b302a96433048ec72.mp3",
+    "main.css": "/Jane-is-so.../static/css/main.47ea5203.css",
+    "main.js": "/Jane-is-so.../static/js/main.7d42aba4.js",
+    "static/media/Mac DeMarco Heart To Heart.mp3": "/Jane-is-so.../static/media/Mac DeMarco Heart To Heart.c2bf05804603ecc4eaa3.mp3",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
+    "static/media/video57.mp4": "/Jane-is-so.../static/media/video57.47cbf6eecfae89c1c8ba.mp4",
     "static/media/video2.mp4": "/Jane-is-so.../static/media/video2.4b77ff9d4ae145216974.mp4",
     "static/media/video30.mp4": "/Jane-is-so.../static/media/video30.08233754cb60b1445327.mp4",
     "static/media/video29.mp4": "/Jane-is-so.../static/media/video29.e9aa78546e7251f1bc05.mp4",
@@ -24,6 +25,7 @@
     "static/media/zholdubaevva_1672144166542.mp4": "/Jane-is-so.../static/media/zholdubaevva_1672144166542.ec6fad6f5b05cd71f0cc.mp4",
     "static/media/video47.mp4": "/Jane-is-so.../static/media/video47.c78e14948bea56fa2627.mp4",
     "static/media/video7.mp4": "/Jane-is-so.../static/media/video7.87410b7b6f7b1354a7ba.mp4",
+    "static/media/video56.mp4": "/Jane-is-so.../static/media/video56.43c7b24ae722b0c4cb1f.mp4",
     "static/media/video37.mp4": "/Jane-is-so.../static/media/video37.72cbe33cd1bd9a363222.mp4",
     "static/media/video50.mp4": "/Jane-is-so.../static/media/video50.529afa94e93f607b38de.mp4",
     "static/media/video32.mp4": "/Jane-is-so.../static/media/video32.7c405bf79f409de906d6.mp4",
@@ -78,7 +80,6 @@
     "static/media/photo23.jpg": "/Jane-is-so.../static/media/photo23.97d81dd974384bbebe96.jpg",
     "static/media/photo24.jpg": "/Jane-is-so.../static/media/photo24.49d48455505bff7d8cc1.jpg",
     "static/media/video19.mp4": "/Jane-is-so.../static/media/video19.1181af285359edab98d7.mp4",
-    "static/media/photo30.jpg": "/Jane-is-so.../static/media/photo30.b995de0fea3c068eea47.jpg",
     "static/media/photo21.jpg": "/Jane-is-so.../static/media/photo21.9dffe1bd8e1c1ec845f5.jpg",
     "static/media/photo25.jpg": "/Jane-is-so.../static/media/photo25.88493cc826b54d9624c0.jpg",
     "static/media/photo1.jpg": "/Jane-is-so.../static/media/photo1.7cb290c44751f28567a8.jpg",
@@ -99,6 +100,7 @@
     "static/media/photo19.jpg": "/Jane-is-so.../static/media/photo19.9f77b91c692792a21d43.jpg",
     "static/media/photo8.jpg": "/Jane-is-so.../static/media/photo8.c18546a310c008e626a0.jpg",
     "static/media/photo22.jpg": "/Jane-is-so.../static/media/photo22.c600936536cebce46325.jpg",
+    "static/media/photo36.jpg": "/Jane-is-so.../static/media/photo36.5710a8c038637765a53a.jpg",
     "static/media/photo7.jpg": "/Jane-is-so.../static/media/photo7.b69afd725960226fbfef.jpg",
     "static/media/photoAbout.jpg": "/Jane-is-so.../static/media/photoAbout.ccd472116edf5732de75.jpg",
     "static/media/photo9.jpg": "/Jane-is-so.../static/media/photo9.17d69b82c0fa1b8ce149.jpg",
@@ -107,11 +109,11 @@
     "static/media/photo20.jpg": "/Jane-is-so.../static/media/photo20.6ac1f9cd16a8d2c170e0.jpg",
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
-    "main.4ee24d99.css.map": "/Jane-is-so.../static/css/main.4ee24d99.css.map",
-    "main.41388296.js.map": "/Jane-is-so.../static/js/main.41388296.js.map"
+    "main.47ea5203.css.map": "/Jane-is-so.../static/css/main.47ea5203.css.map",
+    "main.7d42aba4.js.map": "/Jane-is-so.../static/js/main.7d42aba4.js.map"
   },
   "entrypoints": [
-    "static/css/main.4ee24d99.css",
-    "static/js/main.41388296.js"
+    "static/css/main.47ea5203.css",
+    "static/js/main.7d42aba4.js"
   ]
 }
