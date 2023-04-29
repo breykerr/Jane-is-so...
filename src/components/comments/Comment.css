@@ -2,7 +2,8 @@
   width: 750px;
 }
 .comment__card {
-  background-color: var(--container-color);
+  /* background-color: var(--container-color); */
+  background-color: #111;
   padding: 1.5rem 2rem;
   border-radius: 1.5rem;
   margin-bottom: var(--mb-3);

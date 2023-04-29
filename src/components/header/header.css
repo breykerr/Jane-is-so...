@@ -55,8 +55,9 @@
 
 /* media questions */
 @media screen and (max-width: 768px) {
+  /*//! header bottom */
   .header {
-    top: initial; /*первоначальный*/
+    top: initial; /*ПЕРВОНАЧАЛЬНЫЙ*/
     bottom: 0;
   }
   .nav {

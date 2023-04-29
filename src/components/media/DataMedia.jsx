@@ -27,6 +27,7 @@ import photo27 from "../../assets/img/photo27.jpg";
 import photo28 from "../../assets/img/photo28.jpg";
 import photo32 from "../../assets/img/photo32.jpg";
 import photo33 from "../../assets/img/photo33.jpg";
+import photo36 from "../../assets/img/photo36.jpg";
 //! import video
 import video52 from "../../assets/video/video1.mp4";
 import video51 from "../../assets/video/video2.mp4";
@@ -83,7 +84,21 @@ import video3 from "../../assets/video/zholdubaevva_1672144167999.mp4";
 import video1 from "../../assets/video/video51.mp4";
 import video54 from "../../assets/video/video52.mp4";
 import video55 from "../../assets/video/video55.mp4";
+import video56 from "../../assets/video/video56.mp4";
+import video57 from "../../assets/video/video57.mp4";
 export const JanePhotos = [
+  {
+    id: 29,
+    images: photo36,
+  },
+  {
+    id: 24,
+    images: photo25,
+  },
+  {
+    id: 24,
+    images: photo24,
+  },
   {
     id: 28,
     images: photo28,
@@ -182,27 +197,28 @@ export const JanePhotos = [
   },
   {
     id: 24,
-    images: photo25,
-  },
-  {
-    id: 24,
-    images: photo24,
-  },
-  {
-    id: 24,
     images: photo27,
   },
-  {
-    id: 25,
-    images: photo32,
-  },
-  {
-    id: 26,
-    images: photo33,
-  },
+
+  // {
+  //   id: 26,
+  //   images: photo33,
+  // },
   //!  VIDEOS
 ];
 export const JaneVideo = [
+  {
+    id: 78,
+    videos: video56,
+  },
+  {
+    id: 79,
+    videos: video57,
+  },
+  {
+    id: 45,
+    videos: video23,
+  },
   {
     id: 23,
     videos: video1,
@@ -294,7 +310,6 @@ export const JaneVideo = [
     id: 44,
     videos: video22,
   },
-
   {
     id: 45,
     videos: video23,
@@ -386,49 +401,49 @@ export const JaneVideo = [
     videos: video44,
   },
 
-  {
-    id: 67,
-    videos: video45,
-  },
-  {
-    id: 68,
-    videos: video46,
-  },
-  {
-    id: 69,
-    videos: video47,
-  },
+  // {
+  //   id: 67,
+  //   videos: video45,
+  // },
+  // {
+  //   id: 68,
+  //   videos: video46,
+  // },
+  // {
+  //   id: 69,
+  //   videos: video47,
+  // },
 
-  {
-    id: 70,
-    videos: video48,
-  },
-  {
-    id: 71,
-    videos: video49,
-  },
-  {
-    id: 72,
-    videos: video50,
-  },
-  {
-    id: 73,
-    videos: video51,
-  },
-  {
-    id: 74,
-    videos: video52,
-  },
-  {
-    id: 75,
-    videos: video53,
-  },
-  {
-    id: 76,
-    videos: video54,
-  },
-  {
-    id: 77,
-    videos: video55,
-  },
+  // {
+  //   id: 70,
+  //   videos: video48,
+  // },
+  // {
+  //   id: 71,
+  //   videos: video49,
+  // },
+  // {
+  //   id: 72,
+  //   videos: video50,
+  // },
+  // {
+  //   id: 73,
+  //   videos: video51,
+  // },
+  // {
+  //   id: 74,
+  //   videos: video52,
+  // },
+  // {
+  //   id: 75,
+  //   videos: video53,
+  // },
+  // {
+  //   id: 76,
+  //   videos: video54,
+  // },
+  // {
+  //   id: 77,
+  //   videos: video55,
+  // },
 ];

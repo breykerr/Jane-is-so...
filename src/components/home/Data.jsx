@@ -1,5 +1,5 @@
 import React from "react";
-import poeticrizz from "../../assets/Chris Isaak - Wicked Game.mp3";
+import poeticrizz from "../../assets/Mac DeMarco Heart To Heart.mp3";
 const Data = () => {
   return (
     <>
@@ -8,30 +8,15 @@ const Data = () => {
           <source autoPlay src={poeticrizz} type="audio/mpeg" />
         </audio>
 
-        <h1 className="home__title">Jarkyn 🤍</h1>
-        <h3 className="home__subtitle">Poet (⁠つ⁠≧⁠▽⁠≦⁠)⁠つ</h3>
-        {/* <p className="home__desc">
-          Жаркын, о Жаркын,
-          <br />
-          Красота редкая и истинная, <br />
-          Ее глаза, как звезды, сверкают ярко, <br />
-          Ее улыбка - ослепительный взгляд.
-          <br />
-          <br /> Ее грация и шарм очаровывают сердце, <br />
-          Ее смех как песня, <br />А когда она говорит, мир замирает,
-          <br /> Ее голос так сладок и нежен.
-          <br />
-          <br /> Но больше, чем просто ее внешность и самообладание,
-          <br /> это любящее сердце Жаркын,
-          <br /> Все, кто знает ее, чувствуют ее любовь, <br />
-          дар, который дается отдельно. <br />
-          <br />
-          "Продолжай сиять ярче, чем когда-либо прежде".
-        </p> */}
+        <h1 className="home__title">Jane 🤍</h1>
+        <h3 className="home__subtitle">I cherish you.</h3>
         <p className="home__desc">
-          The world was on fire and no-one could save me but you, <br />
-          It's strange what desire will make foolish people do, <br />
-          I'd never dreamed that I'd meet somebody like you.
+          In each other's lives, heart to heart <br />
+          Heart to heart, heart to heart <br />
+          Heart to heart, heart to heart <br />
+          Heart to heart, heart to heart <br />
+          Heart to heart, heart to heart <br />
+          Weo! Weo! Weo! Weo!
         </p>
         <a href="#contact" className="button button__flex">
           Say Hello
