@@ -1,5 +1,5 @@
 import React from "react";
-import poeticrizz from "../../assets/Mac DeMarco Heart To Heart.mp3";
+import poeticrizz from "../../assets/likej.mp3";
 const Data = () => {
   return (
     <>
@@ -10,14 +10,41 @@ const Data = () => {
 
         <h1 className="home__title">Jane 🤍</h1>
         <h3 className="home__subtitle">I cherish you.</h3>
-        <p className="home__desc">
+        <p className="hoem__desc">
+          You're just too good to be true <br />
+          I can't take my eyes off you
+          <br />
+          You'd be like heaven to touch
+          <br />
+          I wanna hold you so much
+          <br />
+          At long last love has arrived
+          <br />
+          And I thank God I'm alive
+          <br />
+          <br />
+          ___
+          <br />
+          <br />I love you, baby
+          <br />
+          And if it's quite all right
+          <br />
+          I need you, baby
+          <br />
+          To warm the lonely nights
+          <br />
+          I love you, baby
+          <br />
+          Trust in me when I say.
+        </p>
+        {/* <p className="home__desc">
           In each other's lives, heart to heart <br />
           Heart to heart, heart to heart <br />
           Heart to heart, heart to heart <br />
           Heart to heart, heart to heart <br />
           Heart to heart, heart to heart <br />
           Weo! Weo! Weo! Weo!
-        </p>
+        </p> */}
         <a href="#contact" className="button button__flex">
           Say Hello
           <svg

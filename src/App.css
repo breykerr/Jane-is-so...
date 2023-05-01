@@ -221,9 +221,9 @@ html {
 }
 @media screen and (max-width: 768px) {
   /* ! для футера шоб чуть выше был */
-  /* body {
+  body {
     margin: 0 0 var(--header-height) 0;
-  } */
+  }
   .section {
     padding: 2rem 0 4rem;
   }
