@@ -1,5 +1,5 @@
 import React from "react";
-import poeticrizz from "../../assets/likej.mp3";
+import poeticrizz from "../../assets/Ritchie Valens - We Belong Together.mp3";
 const Data = () => {
   return (
     <>
@@ -9,42 +9,30 @@ const Data = () => {
         </audio>
 
         <h1 className="home__title">Jane 🤍</h1>
-        <h3 className="home__subtitle">I cherish you.</h3>
+        <h3 className="home__subtitle">Forever.</h3>
         <p className="hoem__desc">
-          You're just too good to be true <br />
-          I can't take my eyes off you
+          Цветы расцветут, <br />
+          Если Жаркын явится, <br />
+          Любовь цветет в нас. <br />
           <br />
-          You'd be like heaven to touch
+          Ночь. Луна. Жаркын -<br />
+          Мечта мечтающая,
           <br />
-          I wanna hold you so much
-          <br />
-          At long last love has arrived
-          <br />
-          And I thank God I'm alive
+          Под луной полной.
           <br />
           <br />
-          ___
+          Цветет сирень, а<br />
+          Сердце воспламенилось <br />
+          Любовью твоей.
           <br />
-          <br />I love you, baby
           <br />
-          And if it's quite all right
+          Сирень цветет, и<br />
+          Мое сердце пылает.
           <br />
-          I need you, baby
+          Твоей любовью.
           <br />
-          To warm the lonely nights
           <br />
-          I love you, baby
-          <br />
-          Trust in me when I say.
         </p>
-        {/* <p className="home__desc">
-          In each other's lives, heart to heart <br />
-          Heart to heart, heart to heart <br />
-          Heart to heart, heart to heart <br />
-          Heart to heart, heart to heart <br />
-          Heart to heart, heart to heart <br />
-          Weo! Weo! Weo! Weo!
-        </p> */}
         <a href="#contact" className="button button__flex">
           Say Hello
           <svg
