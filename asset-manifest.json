@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Jane-is-so.../static/css/main.472d8372.css",
+    "main.css": "/Jane-is-so.../static/css/main.34da2b25.css",
     "main.js": "/Jane-is-so.../static/js/main.0af0a740.js",
     "static/media/video27.mp4": "/Jane-is-so.../static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/Ritchie Valens - We Belong Together.mp3": "/Jane-is-so.../static/media/Ritchie Valens - We Belong Together.bb1ab70a1c0c16c2f7c6.mp3",
@@ -109,11 +109,11 @@
     "static/media/photo20.jpg": "/Jane-is-so.../static/media/photo20.6ac1f9cd16a8d2c170e0.jpg",
     "static/media/photo17.jpg": "/Jane-is-so.../static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane-is-so.../index.html",
-    "main.472d8372.css.map": "/Jane-is-so.../static/css/main.472d8372.css.map",
+    "main.34da2b25.css.map": "/Jane-is-so.../static/css/main.34da2b25.css.map",
     "main.0af0a740.js.map": "/Jane-is-so.../static/js/main.0af0a740.js.map"
   },
   "entrypoints": [
-    "static/css/main.472d8372.css",
+    "static/css/main.34da2b25.css",
     "static/js/main.0af0a740.js"
   ]
 }
