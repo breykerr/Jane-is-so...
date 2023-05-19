@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Jane/static/css/main.8306cda6.css",
-    "main.js": "/Jane/static/js/main.de7dead6.js",
-    "static/media/Cigarettes After Sex - Heavenly.mp3": "/Jane/static/media/Cigarettes After Sex - Heavenly.fb6fde5fd8e4bc2960d4.mp3",
+    "main.css": "/Jane/static/css/main.68fea4b4.css",
+    "main.js": "/Jane/static/js/main.e39c3870.js",
+    "static/media/Moonlight Sonata.mp3": "/Jane/static/media/Moonlight Sonata.8b04909d747764e0d69f.mp3",
     "static/media/video27.mp4": "/Jane/static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video57.mp4": "/Jane/static/media/video57.47cbf6eecfae89c1c8ba.mp4",
     "static/media/video2.mp4": "/Jane/static/media/video2.4b77ff9d4ae145216974.mp4",
@@ -51,6 +51,7 @@
     "static/media/video1.mp4": "/Jane/static/media/video1.99bcccd5ba82b150decc.mp4",
     "static/media/video23.mp4": "/Jane/static/media/video23.34bd16ea0a1ad3f49a5d.mp4",
     "static/media/poem15.mp4": "/Jane/static/media/poem15.a110b8e4b414b93063c7.mp4",
+    "static/media/11zon_cropped.png": "/Jane/static/media/11zon_cropped.5eed49b43d15c60cf8e1.png",
     "static/media/video9.mp4": "/Jane/static/media/video9.83ab4c94cc8718787934.mp4",
     "static/media/video15.mp4": "/Jane/static/media/video15.b10b2be24763cc8f6a42.mp4",
     "static/media/poem12.mp4": "/Jane/static/media/poem12.dd1cf9932f5899aa222c.mp4",
@@ -109,11 +110,11 @@
     "static/media/photo20.jpg": "/Jane/static/media/photo20.6ac1f9cd16a8d2c170e0.jpg",
     "static/media/photo17.jpg": "/Jane/static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "index.html": "/Jane/index.html",
-    "main.8306cda6.css.map": "/Jane/static/css/main.8306cda6.css.map",
-    "main.de7dead6.js.map": "/Jane/static/js/main.de7dead6.js.map"
+    "main.68fea4b4.css.map": "/Jane/static/css/main.68fea4b4.css.map",
+    "main.e39c3870.js.map": "/Jane/static/js/main.e39c3870.js.map"
   },
   "entrypoints": [
-    "static/css/main.8306cda6.css",
-    "static/js/main.de7dead6.js"
+    "static/css/main.68fea4b4.css",
+    "static/js/main.e39c3870.js"
   ]
 }
