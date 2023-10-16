@@ -28,6 +28,38 @@ import photo28 from "../../assets/img/photo28.jpg";
 import photo32 from "../../assets/img/photo32.jpg";
 import photo33 from "../../assets/img/photo33.jpg";
 import photo36 from "../../assets/img/photo36.jpg";
+import photo39 from "../../assets/img/photo39.jpg";
+import photo41 from "../../assets/img/photo41.jpg";
+import photo42 from "../../assets/img/photo42.jpg";
+import photo43 from "../../assets/img/photo43.jpg";
+import photo44 from "../../assets/img/photo44.jpg";
+import photo45 from "../../assets/img/photo45.jpg";
+import photo46 from "../../assets/img/photo46.jpg";
+import photo47 from "../../assets/img/photo47.jpg";
+import photo48 from "../../assets/img/photo48.jpg";
+import photo49 from "../../assets/img/photo49.jpg";
+import photo50 from "../../assets/img/photo50.jpg";
+import photo51 from "../../assets/img/photo51.jpg";
+import photo52 from "../../assets/img/photo52.jpg";
+import photo53 from "../../assets/img/photo53.jpg";
+import photo54 from "../../assets/img/photo54.jpg";
+import photo55 from "../../assets/img/photo55.jpg";
+import photo56 from "../../assets/img/photo56.jpg";
+import photo57 from "../../assets/img/photo57.jpg";
+import photo58 from "../../assets/img/photo58.jpg";
+import photo59 from "../../assets/img/photo59.jpg";
+import photo60 from "../../assets/img/photo60.jpg";
+import photo61 from "../../assets/img/photo61.jpg";
+import photo62 from "../../assets/img/photo62.jpg";
+import photo63 from "../../assets/img/photo63.jpg";
+import photo64 from "../../assets/img/photo64.jpg";
+import photo65 from "../../assets/img/photo65.jpg";
+import photo66 from "../../assets/img/photo66.jpg";
+import photo67 from "../../assets/img/photo67.jpg";
+import photo68 from "../../assets/img/photo68.jpg";
+import photo69 from "../../assets/img/photo69.jpg";
+import photo70 from "../../assets/img/photo70.jpg";
+
 //! import video
 import video52 from "../../assets/video/video1.mp4";
 import video51 from "../../assets/video/video2.mp4";
@@ -87,6 +119,135 @@ import video55 from "../../assets/video/video55.mp4";
 import video56 from "../../assets/video/video56.mp4";
 import video57 from "../../assets/video/video57.mp4";
 export const JanePhotos = [
+  {
+    id: 29,
+    images: photo70,
+  },
+  {
+    id: 29,
+    images: photo69,
+  },
+  {
+    id: 29,
+    images: photo68,
+  },
+  {
+    id: 29,
+    images: photo67,
+  },
+  {
+    id: 29,
+    images: photo66,
+  },
+  {
+    id: 29,
+    images: photo65,
+  },
+  {
+    id: 29,
+    images: photo64,
+  },
+  {
+    id: 29,
+    images: photo63,
+  },
+  {
+    id: 29,
+    images: photo62,
+  },
+  {
+    id: 29,
+    images: photo61,
+  },
+  {
+    id: 29,
+    images: photo60,
+  },
+  {
+    id: 29,
+    images: photo59,
+  },
+  {
+    id: 29,
+    images: photo58,
+  },
+  {
+    id: 29,
+    images: photo57,
+  },
+  {
+    id: 29,
+    images: photo56,
+  },
+  {
+    id: 29,
+    images: photo55,
+  },
+  {
+    id: 29,
+    images: photo54,
+  },
+  {
+    id: 29,
+    images: photo53,
+  },
+  {
+    id: 29,
+    images: photo52,
+  },
+  {
+    id: 29,
+    images: photo51,
+  },
+  {
+    id: 29,
+    images: photo50,
+  },
+  {
+    id: 29,
+    images: photo49,
+  },
+  {
+    id: 29,
+    images: photo48,
+  },
+  {
+    id: 29,
+    images: photo47,
+  },
+  {
+    id: 29,
+    images: photo46,
+  },
+  {
+    id: 29,
+    images: photo45,
+  },
+  {
+    id: 29,
+    images: photo44,
+  },
+  {
+    id: 29,
+    images: photo43,
+  },
+  {
+    id: 29,
+    images: photo42,
+  },
+  ///
+  {
+    id: 29,
+    images: photo42,
+  },
+  {
+    id: 29,
+    images: photo41,
+  },
+  {
+    id: 29,
+    images: photo39,
+  },
   {
     id: 29,
     images: photo36,

@@ -17,19 +17,19 @@ const Info = () => {
         </div>
 
         <div className="about__box">
-          <i className="bx bx-crown"></i>
-          <h3 className="about__title">President</h3>
+          <i className="bx bx-user"></i>
+          <h3 className="about__title">Student</h3>
           <a
             style={{
               display: "inline",
               borderBottom: "1.5px solid #1b2735",
             }}
-            href="https://88.edubish.kg/o-nas/"
+            href="https://www.manas.edu.kg/ru/index.php"
             target="_blank"
             rel="noopener noreferrer"
             className="about__subtitle"
           >
-            School №88
+            Manas University.
           </a>
         </div>
       </div>

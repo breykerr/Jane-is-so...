@@ -54,6 +54,20 @@ const Contact = () => {
                   <i className="bx bx-right-arrow-alt contact__button-icon"></i>
                 </a>
               </div>
+              <div className="contact__card">
+                <i className="bx bx-sitemap contact__card-icon"></i>
+                <h3 className="contact__card-title">JaneIsMine</h3>
+                <span className="contact__card-data">Mistress</span>
+                <a
+                  href="https://thaddeusss.github.io/Mistress/"
+                  className="contact__button"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Visit me
+                  <i className="bx bx-right-arrow-alt contact__button-icon"></i>
+                </a>
+              </div>
             </div>
           </div>
           {/* <div className="contact__content">

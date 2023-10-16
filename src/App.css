@@ -117,10 +117,9 @@ img {
 
 html {
   scroll-behavior: smooth;
-  /* background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%); */
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   /* background: radial-gradient(ellipse at bottom, #000000 0%, #1c1c1c 100%); */
-  /* background: radial-gradient(ellipse at bottom, #96208b 0%, #160433 10%); */
-  background: radial-gradient(ellipse at bottom, #030303 0%, #000000 10%);
+  /* background: radial-gradient(ellipse at bottom, #030303 0%, #000000 10%); */
 }
 
 .section {
@@ -171,6 +170,7 @@ html {
   padding: 1.25rem 2rem;
   border-radius: 1rem;
   font-weight: var(--font-medium);
+  margin-top: var(--mb-1);
 }
 .button:hover {
   background-color: #0f0b0b;
@@ -189,8 +189,8 @@ html {
   color: var(--container-color);
 }
 
-/* scrollbar */
-::-webkit-scrollbar {
+/*! scrollbar */
+/* ::-webkit-scrollbar {
   width: 18px;
 }
 ::-webkit-scrollbar-track {
@@ -201,7 +201,7 @@ html {
   background: #090a0f;
   border-radius: 8px;
   border: 3px solid var(--container-color);
-}
+} */
 
 /* media questions */
 @media screen and (max-width: 992px) {

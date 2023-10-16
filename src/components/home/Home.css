@@ -74,7 +74,7 @@
 }
 
 .home__img {
-  background: url(../../assets/img/photo32.jpg); /*Свойство background-repeat устанавливает, как фоновые изображения будет повторяться. Они могут повторяться по горизонтальной и вертикальной оси или не повторяться вовсе.*/
+  background: url(../../assets/img/photo70.jpg); /*Свойство background-repeat устанавливает, как фоновые изображения будет повторяться. Они могут повторяться по горизонтальной и вертикальной оси или не повторяться вовсе.*/
   background-repeat: no-repeat;
   background-position: center;
   /*Свойство background-position-x - это CSS - свойство, 
@@ -125,7 +125,7 @@
   .home__img {
     width: 250px;
     height: 250px;
-    box-shadow: inset 0 0 0 8px rgb(255 255 255 / 30%);
+    box-shadow: inset 0 0 0 9px rgb(255 255 255 / 100%);
   }
 }
 @media screen and (max-width: 768px) {
@@ -141,7 +141,7 @@
     grid-column: 1/3;
   }
   .home__img {
-    box-shadow: inset 0 0 0 6px rgb(255 255 255 / 30%);
+    box-shadow: inset 0 0 0 9px rgb(255 255 255 / 100%);
     width: 200px;
     height: 200px;
   }

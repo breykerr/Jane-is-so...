@@ -5,7 +5,7 @@
 }
 
 #about__img {
-  background: url(../../assets/img/photo31.jpg); /*Свойство background-repeat устанавливает, как фоновые изображения будет повторяться. Они могут повторяться по горизонтальной и вертикальной оси или не повторяться вовсе.*/
+  background: url(../../assets/img/photo60.jpg); /*Свойство background-repeat устанавливает, как фоновые изображения будет повторяться. Они могут повторяться по горизонтальной и вертикальной оси или не повторяться вовсе.*/
   background-repeat: no-repeat;
   background-position: center;
   /*Свойство background-position-x - это CSS - свойство, 

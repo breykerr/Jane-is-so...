@@ -13,7 +13,10 @@ const Media = () => {
       <section className="media section" id="media">
         <h2 className="section__title">Gallery</h2>
         <span className="section__subtitle">Мy memories</span>
-
+        <p className="media__desc">
+          Проведите пальцем по экрану, чтобы открыть новые очаровательные снимки
+          прекрасной девушки(≧◡≦) ♡→
+        </p>
         <Swiper
           className="comment__container"
           loop={true}

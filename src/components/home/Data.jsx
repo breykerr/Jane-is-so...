@@ -1,5 +1,5 @@
 import React from "react";
-import poeticrizz from "../../assets/Ritchie Valens - We Belong Together.mp3";
+import poeticrizz from "../../assets/likej.mp3";
 const Data = () => {
   return (
     <>
@@ -9,29 +9,39 @@ const Data = () => {
         </audio>
 
         <h1 className="home__title">Jane 🤍</h1>
-        <h3 className="home__subtitle">Forever.</h3>
+        <h3 className="home__subtitle">(๑˘︶˘๑)</h3>
         <p className="hoem__desc">
-          Цветы расцветут, <br />
-          Если Жаркын явится, <br />
-          Любовь цветет в нас. <br />
+          You're just too good to be true <br />
+          Can't take my eyes off of you
           <br />
-          Ночь. Луна. Жаркын -<br />
-          Мечта мечтающая,
+          You'd be like Heaven to touch
           <br />
-          Под луной полной.
+          I wanna hold you so much
           <br />
+          At long last, love has arrived
           <br />
-          Цветет сирень, а<br />
-          Сердце воспламенилось <br />
-          Любовью твоей.
+          And I thank God I'm alive
           <br />
+          You're just too good to be true
           <br />
-          Сирень цветет, и<br />
-          Мое сердце пылает.
-          <br />
-          Твоей любовью.
+          Can't take my eyes off of you
           <br />
           <br />
+          Pardon the way that I stare
+          <br />
+          There's nothin' else to compare
+          <br />
+          The sight of you leaves me weak
+          <br />
+          There are no words left to speak
+          <br />
+          But if you feel like I feel
+          <br />
+          Please let me know that it's real
+          <br />
+          You're just too good to be true
+          <br />
+          Can't take my eyes off of you
         </p>
         <a href="#contact" className="button button__flex">
           Say Hello

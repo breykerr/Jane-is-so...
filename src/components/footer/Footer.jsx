@@ -58,7 +58,7 @@ const Footer = () => {
           </a>
         </div>
 
-        <span className="footer__copy">&#169; lalala</span>
+        <span className="footer__copy">&#169; Faddei</span>
       </div>
     </footer>
   );
