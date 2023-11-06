@@ -14,8 +14,9 @@ const Media = () => {
         <h2 className="section__title">Gallery</h2>
         <span className="section__subtitle">Мy memories</span>
         <p className="media__desc">
-          Проведите пальцем по экрану, чтобы открыть новые очаровательные снимки
-          прекрасной девушки(≧◡≦) ♡→
+          Проведите пальцем по фотонрафии, чтобы открыть новые очаровательные
+          снимки прекрасной девушки, в которую я влюблен всеми своими фибрами
+          души(≧◡≦) ♡→
         </p>
         <Swiper
           className="comment__container"

@@ -1,5 +1,5 @@
 import React from "react";
-import poeticrizz from "../../assets/likej.mp3";
+import poeticrizz from "../../assets/Ёлка - Около Тебя.mp3";
 const Data = () => {
   return (
     <>
@@ -11,37 +11,33 @@ const Data = () => {
         <h1 className="home__title">Jane 🤍</h1>
         <h3 className="home__subtitle">(๑˘︶˘๑)</h3>
         <p className="hoem__desc">
-          You're just too good to be true <br />
-          Can't take my eyes off of you
+          Ярко, я закрываю веки – не помогает
           <br />
-          You'd be like Heaven to touch
+          Я кладу ладони на лицо
           <br />
-          I wanna hold you so much
+          Жарко, я не могу напиться
           <br />
-          At long last, love has arrived
+          Мне не хватает, я не могу проститься ни на миг
           <br />
-          And I thank God I'm alive
+          Перепутанные взгляды наши
           <br />
-          You're just too good to be true
-          <br />
-          Can't take my eyes off of you
+          Ничего я не хочу менять
           <br />
           <br />
-          Pardon the way that I stare
+          Около тебя мир зеленее
           <br />
-          There's nothin' else to compare
+          Около тебя солнцу теплее
           <br />
-          The sight of you leaves me weak
+          Около тебя я понимаю, что счастье есть
           <br />
-          There are no words left to speak
+          Когда ты здесь
           <br />
-          But if you feel like I feel
+          Около меня
           <br />
-          Please let me know that it's real
+          Около меня
           <br />
-          You're just too good to be true
+          Около меня
           <br />
-          Can't take my eyes off of you
         </p>
         <a href="#contact" className="button button__flex">
           Say Hello
