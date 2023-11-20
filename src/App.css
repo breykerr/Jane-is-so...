@@ -117,9 +117,9 @@ img {
 
 html {
   scroll-behavior: smooth;
-  /* background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%); */
+  background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   /* background: radial-gradient(ellipse at bottom, #000000 0%, #1c1c1c 100%); */
-  background: radial-gradient(ellipse at bottom, #e6dcdc 0%, #daadad 10%);
+  /* background: radial-gradient(ellipse at bottom, #e6dcdc 0%, #daadad 10%); */
 }
 
 .section {

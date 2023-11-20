@@ -11,7 +11,7 @@ function App() {
   return (
     <>
       <Header />
-      {/* <BackAnimate /> */}
+      <BackAnimate />
       <main className="main__links">
         <Home />
         <About />
