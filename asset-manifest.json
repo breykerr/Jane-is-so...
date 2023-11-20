@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Jane/static/css/main.ef57fe0c.css",
-    "main.js": "/Jane/static/js/main.fc3dcc34.js",
-    "static/media/Ёлка - Около Тебя.mp3": "/Jane/static/media/Ёлка - Около Тебя.a9574cbe85118051b315.mp3",
+    "main.css": "/Jane/static/css/main.3b797378.css",
+    "main.js": "/Jane/static/js/main.099e4cf0.js",
+    "static/media/디어- 재현 -d.ear- JAEHYUN--Try Again-textmp3.ru.mp3": "/Jane/static/media/디어- 재현 -d.ear- JAEHYUN--Try Again-textmp3.ru.d05c3c18c17717e427f0.mp3",
     "static/media/video27.mp4": "/Jane/static/media/video27.f6257bbbf5ab7c26dc34.mp4",
     "static/media/video57.mp4": "/Jane/static/media/video57.47cbf6eecfae89c1c8ba.mp4",
     "static/media/video2.mp4": "/Jane/static/media/video2.4b77ff9d4ae145216974.mp4",
@@ -122,11 +122,11 @@
     "static/media/photo17.jpg": "/Jane/static/media/photo17.0a2ae6fefc520988aaa8.jpg",
     "static/media/photo42.jpg": "/Jane/static/media/photo42.35f40ef67334d1c1ddc9.jpg",
     "index.html": "/Jane/index.html",
-    "main.ef57fe0c.css.map": "/Jane/static/css/main.ef57fe0c.css.map",
-    "main.fc3dcc34.js.map": "/Jane/static/js/main.fc3dcc34.js.map"
+    "main.3b797378.css.map": "/Jane/static/css/main.3b797378.css.map",
+    "main.099e4cf0.js.map": "/Jane/static/js/main.099e4cf0.js.map"
   },
   "entrypoints": [
-    "static/css/main.ef57fe0c.css",
-    "static/js/main.fc3dcc34.js"
+    "static/css/main.3b797378.css",
+    "static/js/main.099e4cf0.js"
   ]
 }
